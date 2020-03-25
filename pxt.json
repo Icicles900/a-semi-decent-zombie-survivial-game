@@ -1,7 +1,10 @@
 {
-    "name": "A-semi-decent-zombie-survivial-game",
+    "name": "A-semi-decent-zombie-survivial-movie",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "palette": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.3",
+        "corgio": "*"
     },
     "description": "",
     "files": [
